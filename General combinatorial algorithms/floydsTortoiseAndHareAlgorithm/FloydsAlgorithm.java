@@ -1,7 +1,13 @@
 package floydsTortoiseAndHareAlgorithm;
 
+/**
+ * https://en.wikipedia.org/wiki/Cycle_detection
+ * @author Jeffr
+ *
+ */
 public class FloydsAlgorithm 
 {
+
 	public static void main(String[] args)
 	{
 		
